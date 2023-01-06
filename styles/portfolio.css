@@ -30,7 +30,8 @@ nav li{
 }
 .text-primary{
     color:#FD6E0A;
-}
+    
+} 
 .btn-primary{
     color: #FFFFFF;
     font-weight: 700;
@@ -40,6 +41,8 @@ nav li{
     height: 64px;
     border-radius: 5px;
     background-color: #FD6E0A;
+    
+    
 }
 /* banner styles */
 .banner{
@@ -80,14 +83,18 @@ section{
 .section-title{
     text-align: center;
     font-weight: 700;
-    font-size: 35;
-    margin-bottom: 50px;
+    font-size: 35px;
+    margin-bottom: 34px;
+    
 }
 .section-description{
     color: #757575;
     font-size: 18px;
     margin-bottom: 30px;
+    text-align: justify;
 }
+
+
 .about-info-container{
     display: flex;
     justify-content:space-around;
@@ -127,6 +134,7 @@ section{
 }
 
 /* Resume styles */
+
 .resume-content{
     display: flex;
     gap:24px;
@@ -140,6 +148,7 @@ section{
     font-size: 25px;
     color: #474747;
     margin-bottom: 10px;
+    
 
 }
 .resume .sub-title{
@@ -167,7 +176,7 @@ color: #757575;
     position: absolute;
     height: 780px;
     left: 0px;
-    top: 3476px;
+    top: 2800px;
 
 }
 .contact .section-title{
