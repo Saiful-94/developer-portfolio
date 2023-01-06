@@ -163,13 +163,18 @@ color: #757575;
     gap:100px;
     background-color:#FFF8F3;
     padding:130px 200px;
+    position: absolute;
+    height: 780px;
+    left: 0px;
+    top: 3476px;
+
 }
 .contact .section-title{
     text-align: left;
 
 }
 .contact input[type="text"], input[type="email"], textarea{
-    margin: 20px;
+    margin-bottom: 20px;
     border: 0;
     width: 100%;
     padding:18px 30px;
