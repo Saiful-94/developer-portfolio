@@ -196,3 +196,7 @@ input{
     text-decoration: none;
 
 }
+.image{
+    height: 700px;
+    width: 1000px;
+}
